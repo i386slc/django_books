@@ -11,6 +11,7 @@
   * [1.4 Создание файловой структуры проекта](django-3-web-development-cookbook/1.-nachalo-raboty-s-django-3.0/1.4-sozdanie-failovoi-struktury-proekta.md)
   * [1.5 Обработка зависимостей проекта с помощью pip](django-3-web-development-cookbook/1.-nachalo-raboty-s-django-3.0/1.5-obrabotka-zavisimostei-proekta-s-pomoshyu-pip.md)
   * [1.6 Настройка параметров для среды разработки, тестирования, промежуточной и производственной среды](django-3-web-development-cookbook/1.-nachalo-raboty-s-django-3.0/1.6-nastroika-parametrov-dlya-sredy-razrabotki-testirovaniya-promezhutochnoi-i-proizvodstvennoi-sred.md)
+  * [1.7 Определение относительных путей в настройках](django-3-web-development-cookbook/1.-nachalo-raboty-s-django-3.0/1.7-opredelenie-otnositelnykh-putei-v-nastroikakh.md)
 * [8. Иерархические структуры](django-3-web-development-cookbook/8.-ierarkhicheskie-struktury/README.md)
   * [Введение](django-3-web-development-cookbook/8.-ierarkhicheskie-struktury/vvedenie.md)
   * [Технические требования](django-3-web-development-cookbook/8.-ierarkhicheskie-struktury/tekhnicheskie-trebovaniya.md)
