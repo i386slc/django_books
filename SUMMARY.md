@@ -13,6 +13,7 @@
   * [1.6 Настройка параметров для среды разработки, тестирования, промежуточной и производственной среды](django-3-web-development-cookbook/1.-nachalo-raboty-s-django-3.0/1.6-nastroika-parametrov-dlya-sredy-razrabotki-testirovaniya-promezhutochnoi-i-proizvodstvennoi-sred.md)
   * [1.7 Определение относительных путей в настройках](django-3-web-development-cookbook/1.-nachalo-raboty-s-django-3.0/1.7-opredelenie-otnositelnykh-putei-v-nastroikakh.md)
   * [1.8 Работа с конфиденциальными настройками](django-3-web-development-cookbook/1.-nachalo-raboty-s-django-3.0/1.8-rabota-s-konfidencialnymi-nastroikami.md)
+* [1.9 Включение внешних зависимостей в ваш проект](django-3-web-development-cookbook/1.9-vklyuchenie-vneshnikh-zavisimostei-v-vash-proekt.md)
 * [8. Иерархические структуры](django-3-web-development-cookbook/8.-ierarkhicheskie-struktury/README.md)
   * [Введение](django-3-web-development-cookbook/8.-ierarkhicheskie-struktury/vvedenie.md)
   * [Технические требования](django-3-web-development-cookbook/8.-ierarkhicheskie-struktury/tekhnicheskie-trebovaniya.md)
