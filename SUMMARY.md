@@ -18,6 +18,7 @@
   * [1.11 Установка UTF-8 в качестве кодировки по умолчанию для конфигурации MySQL](django-3-web-development-cookbook/1.-nachalo-raboty-s-django-3.0/1.11-ustanovka-utf-8-v-kachestve-kodirovki-po-umolchaniyu-dlya-konfiguracii-mysql.md)
   * [1.12 Создание файла игнорирования Git](django-3-web-development-cookbook/1.-nachalo-raboty-s-django-3.0/1.12-sozdanie-faila-ignorirovaniya-git.md)
   * [1.13 Удаление файлов, скомпилированных Python](django-3-web-development-cookbook/1.-nachalo-raboty-s-django-3.0/1.13-udalenie-failov-skompilirovannykh-python.md)
+  * [1.14 Соблюдение порядка импорта в файлах Python](django-3-web-development-cookbook/1.-nachalo-raboty-s-django-3.0/1.14-soblyudenie-poryadka-importa-v-failakh-python.md)
 * [8. Иерархические структуры](django-3-web-development-cookbook/8.-ierarkhicheskie-struktury/README.md)
   * [Введение](django-3-web-development-cookbook/8.-ierarkhicheskie-struktury/vvedenie.md)
   * [Технические требования](django-3-web-development-cookbook/8.-ierarkhicheskie-struktury/tekhnicheskie-trebovaniya.md)
