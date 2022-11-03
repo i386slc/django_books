@@ -21,6 +21,7 @@
   * [1.14 Соблюдение порядка импорта в файлах Python](django-3-web-development-cookbook/1.-nachalo-raboty-s-django-3.0/1.14-soblyudenie-poryadka-importa-v-failakh-python.md)
   * [1.15 Создание конфигурации приложения](django-3-web-development-cookbook/1.-nachalo-raboty-s-django-3.0/1.15-sozdanie-konfiguracii-prilozheniya.md)
   * [1.16 Определение перезаписываемых параметров приложения](django-3-web-development-cookbook/1.-nachalo-raboty-s-django-3.0/1.16-opredelenie-perezapisyvaemykh-parametrov-prilozheniya.md)
+  * [1.17 Работа с контейнерами Docker для Django, Gunicorn, Nginx и PostgreSQL](django-3-web-development-cookbook/1.-nachalo-raboty-s-django-3.0/1.17-rabota-s-konteinerami-docker-dlya-django-gunicorn-nginx-i-postgresql.md)
 * [8. Иерархические структуры](django-3-web-development-cookbook/8.-ierarkhicheskie-struktury/README.md)
   * [Введение](django-3-web-development-cookbook/8.-ierarkhicheskie-struktury/vvedenie.md)
   * [Технические требования](django-3-web-development-cookbook/8.-ierarkhicheskie-struktury/tekhnicheskie-trebovaniya.md)
