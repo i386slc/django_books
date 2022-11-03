@@ -19,6 +19,8 @@
   * [1.12 Создание файла игнорирования Git](django-3-web-development-cookbook/1.-nachalo-raboty-s-django-3.0/1.12-sozdanie-faila-ignorirovaniya-git.md)
   * [1.13 Удаление файлов, скомпилированных Python](django-3-web-development-cookbook/1.-nachalo-raboty-s-django-3.0/1.13-udalenie-failov-skompilirovannykh-python.md)
   * [1.14 Соблюдение порядка импорта в файлах Python](django-3-web-development-cookbook/1.-nachalo-raboty-s-django-3.0/1.14-soblyudenie-poryadka-importa-v-failakh-python.md)
+  * [1.15 Создание конфигурации приложения](django-3-web-development-cookbook/1.-nachalo-raboty-s-django-3.0/1.15-sozdanie-konfiguracii-prilozheniya.md)
+  * [1.16 Определение перезаписываемых параметров приложения](django-3-web-development-cookbook/1.-nachalo-raboty-s-django-3.0/1.16-opredelenie-perezapisyvaemykh-parametrov-prilozheniya.md)
 * [8. Иерархические структуры](django-3-web-development-cookbook/8.-ierarkhicheskie-struktury/README.md)
   * [Введение](django-3-web-development-cookbook/8.-ierarkhicheskie-struktury/vvedenie.md)
   * [Технические требования](django-3-web-development-cookbook/8.-ierarkhicheskie-struktury/tekhnicheskie-trebovaniya.md)
