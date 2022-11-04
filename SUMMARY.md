@@ -28,6 +28,7 @@
   * [2.3 Создание миксина модели для обработки создания и модификации дат](django-3-web-development-cookbook/2.-modeli-i-struktury-bd/2.3-sozdanie-miksina-modeli-dlya-obrabotki-sozdaniya-i-modifikacii-dat.md)
   * [2.4 Создание миксина модели для управления метатегами](django-3-web-development-cookbook/2.-modeli-i-struktury-bd/2.4-sozdanie-miksina-modeli-dlya-upravleniya-metategami.md)
   * [2.5 Создание миксина модели для обработки общих отношений](django-3-web-development-cookbook/2.-modeli-i-struktury-bd/2.5-sozdanie-miksina-modeli-dlya-obrabotki-obshikh-otnoshenii.md)
+  * [2.6 Работа с многоязычными полями](django-3-web-development-cookbook/2.-modeli-i-struktury-bd/2.6-rabota-s-mnogoyazychnymi-polyami.md)
 * [8. Иерархические структуры](django-3-web-development-cookbook/8.-ierarkhicheskie-struktury/README.md)
   * [Введение](django-3-web-development-cookbook/8.-ierarkhicheskie-struktury/vvedenie.md)
   * [Технические требования](django-3-web-development-cookbook/8.-ierarkhicheskie-struktury/tekhnicheskie-trebovaniya.md)
