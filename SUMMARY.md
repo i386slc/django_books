@@ -24,6 +24,7 @@
   * [1.17 Работа с контейнерами Docker для Django, Gunicorn, Nginx и PostgreSQL](django-3-web-development-cookbook/1.-nachalo-raboty-s-django-3.0/1.17-rabota-s-konteinerami-docker-dlya-django-gunicorn-nginx-i-postgresql.md)
 * [2. Модели и структуры БД](django-3-web-development-cookbook/2.-modeli-i-struktury-bd/README.md)
   * [2.1 Использование миксинов модели](django-3-web-development-cookbook/2.-modeli-i-struktury-bd/2.1-ispolzovanie-miksinov-modeli.md)
+  * [2.2 Создание миксина модели с методами, связанными с URL](django-3-web-development-cookbook/2.-modeli-i-struktury-bd/2.2-sozdanie-miksina-modeli-s-metodami-svyazannymi-s-url.md)
 * [8. Иерархические структуры](django-3-web-development-cookbook/8.-ierarkhicheskie-struktury/README.md)
   * [Введение](django-3-web-development-cookbook/8.-ierarkhicheskie-struktury/vvedenie.md)
   * [Технические требования](django-3-web-development-cookbook/8.-ierarkhicheskie-struktury/tekhnicheskie-trebovaniya.md)
