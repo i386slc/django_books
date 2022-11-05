@@ -33,6 +33,7 @@
   * [2.8 Избегайте циклических зависимостей](django-3-web-development-cookbook/2.-modeli-i-struktury-bd/2.8-izbegaite-ciklicheskikh-zavisimostei.md)
   * [2.9 Добавление ограничений базы данных](django-3-web-development-cookbook/2.-modeli-i-struktury-bd/2.9-dobavlenie-ogranichenii-bazy-dannykh.md)
   * [2.10 Использование миграций](django-3-web-development-cookbook/2.-modeli-i-struktury-bd/2.10-ispolzovanie-migracii.md)
+  * [2.11 Изменение внешнего ключа на поле «многие ко многим»](django-3-web-development-cookbook/2.-modeli-i-struktury-bd/2.11-izmenenie-vneshnego-klyucha-na-pole-mnogie-ko-mnogim.md)
 * [8. Иерархические структуры](django-3-web-development-cookbook/8.-ierarkhicheskie-struktury/README.md)
   * [Введение](django-3-web-development-cookbook/8.-ierarkhicheskie-struktury/vvedenie.md)
   * [Технические требования](django-3-web-development-cookbook/8.-ierarkhicheskie-struktury/tekhnicheskie-trebovaniya.md)
