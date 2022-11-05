@@ -37,6 +37,7 @@
 * [3. Формы и представления (вьюхи)](django-3-web-development-cookbook/3.-formy-i-predstavleniya-vyukhi/README.md)
   * [3.1 Создание приложения с функциями CRUDL](django-3-web-development-cookbook/3.-formy-i-predstavleniya-vyukhi/3.1-sozdanie-prilozheniya-s-funkciyami-crudl.md)
   * [3.2 Сохранение автора экземпляра модели](django-3-web-development-cookbook/3.-formy-i-predstavleniya-vyukhi/3.2-sokhranenie-avtora-ekzemplyara-modeli.md)
+  * [3.3 Загрузка изображений](django-3-web-development-cookbook/3.-formy-i-predstavleniya-vyukhi/3.3-zagruzka-izobrazhenii.md)
 * [8. Иерархические структуры](django-3-web-development-cookbook/8.-ierarkhicheskie-struktury/README.md)
   * [Введение](django-3-web-development-cookbook/8.-ierarkhicheskie-struktury/vvedenie.md)
   * [Технические требования](django-3-web-development-cookbook/8.-ierarkhicheskie-struktury/tekhnicheskie-trebovaniya.md)
