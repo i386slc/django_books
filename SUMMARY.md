@@ -44,6 +44,7 @@
   * [3.7 Фильтрация списков объектов](django-3-web-development-cookbook/3.-formy-i-predstavleniya-vyukhi/3.7-filtraciya-spiskov-obektov.md)
   * [3.8 Управление списками с разбивкой на страницы](django-3-web-development-cookbook/3.-formy-i-predstavleniya-vyukhi/3.8-upravlenie-spiskami-s-razbivkoi-na-stranicy.md)
   * [3.9 Составление представлений на основе классов](django-3-web-development-cookbook/3.-formy-i-predstavleniya-vyukhi/3.9-sostavlenie-predstavlenii-na-osnove-klassov.md)
+  * [3.10 Предоставление данных Open Graph и Twitter Card](django-3-web-development-cookbook/3.-formy-i-predstavleniya-vyukhi/3.10-predostavlenie-dannykh-open-graph-i-twitter-card.md)
 * [8. Иерархические структуры](django-3-web-development-cookbook/8.-ierarkhicheskie-struktury/README.md)
   * [Введение](django-3-web-development-cookbook/8.-ierarkhicheskie-struktury/vvedenie.md)
   * [Технические требования](django-3-web-development-cookbook/8.-ierarkhicheskie-struktury/tekhnicheskie-trebovaniya.md)
