@@ -39,6 +39,7 @@
   * [3.2 Сохранение автора экземпляра модели](django-3-web-development-cookbook/3.-formy-i-predstavleniya-vyukhi/3.2-sokhranenie-avtora-ekzemplyara-modeli.md)
   * [3.3 Загрузка изображений](django-3-web-development-cookbook/3.-formy-i-predstavleniya-vyukhi/3.3-zagruzka-izobrazhenii.md)
   * [3.4 Создание макета формы с помощью пользовательских шаблонов](django-3-web-development-cookbook/3.-formy-i-predstavleniya-vyukhi/3.4-sozdanie-maketa-formy-s-pomoshyu-polzovatelskikh-shablonov.md)
+  * [3.5 Создание макета формы с помощью django-crispy-forms](django-3-web-development-cookbook/3.-formy-i-predstavleniya-vyukhi/3.5-sozdanie-maketa-formy-s-pomoshyu-django-crispy-forms.md)
 * [8. Иерархические структуры](django-3-web-development-cookbook/8.-ierarkhicheskie-struktury/README.md)
   * [Введение](django-3-web-development-cookbook/8.-ierarkhicheskie-struktury/vvedenie.md)
   * [Технические требования](django-3-web-development-cookbook/8.-ierarkhicheskie-struktury/tekhnicheskie-trebovaniya.md)
