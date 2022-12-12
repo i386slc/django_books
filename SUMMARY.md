@@ -62,3 +62,4 @@
   * [Отображение категорий в шаблоне с помощью django-mptt](django-3-web-development-cookbook/8.-ierarkhicheskie-struktury/otobrazhenie-kategorii-v-shablone-s-pomoshyu-django-mptt.md)
   * [Использование одного поля selection для выбора категории в формах с django-mptt](django-3-web-development-cookbook/8.-ierarkhicheskie-struktury/ispolzovanie-odnogo-polya-selection-dlya-vybora-kategorii-v-formakh-s-django-mptt.md)
   * [Использование списка флажков для выбора нескольких категорий в формах с django-mptt](django-3-web-development-cookbook/8.-ierarkhicheskie-struktury/ispolzovanie-spiska-flazhkov-dlya-vybora-neskolkikh-kategorii-v-formakh-s-django-mptt.md)
+* [10. Звонки и свистки](django-3-web-development-cookbook/10.-zvonki-i-svistki.md)
